@@ -1,0 +1,3 @@
+graft hayman_concept2
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  hayman_concept2/jupy *
